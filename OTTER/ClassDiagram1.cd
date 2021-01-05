@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OTTER.BGL" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="OTTER.BGL.TouchHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BGL.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>KJTHoLhDUHhhiggGIJmCwlA2ugVtIasCiySCgggIBAA=</HashCode>
+      <FileName>BGL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Drzava">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAABAAAAAAAAAAACAAAAAAAAAAAAAAEEgAABEY=</HashCode>
+      <FileName>Drzava.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.SpriteList&lt;T&gt;" Collapsed="true">
+    <Position X="13.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAEAAAABAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Game" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAggAAAAAAAAAAAQAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>GameClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.GameOptions">
+    <Position X="10.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAABAAAQAAABAAAARAABAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>GameOptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Kraj" Collapsed="true">
+    <Position X="11.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAABAAAACAAAACAAA4ABAEAFEEAQBACAA=</HashCode>
+      <FileName>Kraj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Likovi">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAGAAAAAgAAAAAAAAAAAAAAAEAAAABAAA=</HashCode>
+      <FileName>Likovi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.MagicniNapitak">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Likovi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Lik">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAgAUECIABBAAAAEAAAAQQAA=</HashCode>
+      <FileName>Likovi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Znamenitosti">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAIAI=</HashCode>
+      <FileName>Likovi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Odabir_drzave" Collapsed="true">
+    <Position X="11.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBAAACQADggABAAAgKEEAQGIwAAAAAAASQAEAAAAAA=</HashCode>
+      <FileName>Odabir_drzave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Odabir_igraca" Collapsed="true">
+    <Position X="11.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgABZEAACCAABAAAADABAACAAAYAAAAEGAgAQBAiAI=</HashCode>
+      <FileName>Odabir_igraca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Pocetna" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAAgAAAACAAAACgAAYAAAAIGQAAABBCAA=</HashCode>
+      <FileName>Pocetna.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Program" Collapsed="true">
+    <Position X="13.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Sensing" Collapsed="true">
+    <Position X="13.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAgEAAAAAAAAEAAAAgAAAAJAAAA=</HashCode>
+      <FileName>Sensing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.SpriteCostume" Collapsed="true">
+    <Position X="13.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQABAAAAAAAAQAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Sprite" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="OTTER.Sprite.RotationStylesType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Sprite.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="OTTER.Sprite.DirectionsType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Sprite.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAFEEDgAEg4yIZCeCAJYEBAACwFAiAAAADggkIiZGg=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Properties.Resources" Collapsed="true">
+    <Position X="13.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAANAAIAAhECAQAQAAAAAAAAIBAAAAFYA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Properties.Settings" Collapsed="true">
+    <Position X="13.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
